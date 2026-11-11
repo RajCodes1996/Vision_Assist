@@ -1,0 +1,1 @@
+### Read Text Feature Is Not Working and Needs to be updated! 

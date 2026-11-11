@@ -1,0 +1,9 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+*.pkl
+data/uploads/
+models/
+.qdrant/
+qdrant_storage/
